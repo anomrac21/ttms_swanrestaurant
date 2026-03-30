@@ -1,7 +1,7 @@
 {
-    "name": "{{SITE_TITLE}}",
-    "short_name": "{{SITE_TITLE}}",
-    "description": "{{SITE_TITLE}} Digital Menu",
+    "name": "Swan Restaurant",
+    "short_name": "Swan Restaurant",
+    "description": "Swan Restaurant Digital Menu ",
     "start_url": ".",
     "background_color": "#000000",
     "display": "standalone",

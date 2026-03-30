@@ -9,7 +9,7 @@ languageCode = 'en-tt'
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-title = 'Swan Restaurant '
+title = 'Swan Restaurant'
 baseURL = 'https://swanrestaurant.ttmenus.com/'
 
 [markup]
@@ -53,7 +53,15 @@ baseURL = 'https://swanrestaurant.ttmenus.com/'
     enabled = true
     apiUrl = "https://cms.ttmenus.com/api"
     serviceUrl = "https://cms.ttmenus.com"
+    # Local content-management-service: use both lines below and restart Hugo
+    # apiUrl = "http://localhost:8084/api"
+    # serviceUrl = "http://localhost:8084"
     clientId = "ttms_swanrestaurant"
+
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
     # For local development, use:
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"
@@ -78,7 +86,7 @@ baseURL = 'https://swanrestaurant.ttmenus.com/'
     servicecharge = 0
     hastables = true
     usephonecall = false
-    whatsapp = 18687787926
+    whatsapp = 18682357766
     phone = 18682357766
 
 [params.services]
@@ -90,7 +98,7 @@ baseURL = 'https://swanrestaurant.ttmenus.com/'
     email = ""
     phone = 18682357766
     facebook = ""
-    instagram = ""
+    instagram = "https://www.instagram.com/swan_restaurant_?igsh=MXptZzlxYnJhZHJr"
     tiktok = ""
 
 [privacy]

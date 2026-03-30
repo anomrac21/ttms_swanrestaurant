@@ -2,47 +2,47 @@ locations:
   - address: "M6 Plaza, Narsaloo Ramaya Marg Rd, Endeavour"
     city: "Chaguanas"
     island: "Trinidad"
-    latlon: [10.532433,-6140815383190178.000000]
+    latlon: [10.532433011955687, -61.40815383190178]
     phone: "18682357766"
-    whatsapp: "18687787926"
-    subcategories: []
+    whatsapp: "18682357766"
+    subcategories:
+      - Restaurant
     orderingtables: []
     delivery:
     opening_hours:
-      mode: "Auto"
+      mode: Auto
       sun:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
       mon:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
       tue:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
       wed:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
       thu:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
       fri:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
       sat:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
+        - type: Close
           time: "22:00"
-

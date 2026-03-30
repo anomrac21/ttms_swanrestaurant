@@ -1,32 +1,52 @@
 :root {
-    --hero-bg-image-fg-color: #f4dec3;
-    --contact-info-bg: none;
-    --button-text-color2: #ffffff;
-    --main-bg-color: #f4dec3;
-    --menu-bg-color-1: #22273111;
-    --header-bordercolor-1: #dfeed4ff;
-    --modal-bg-container-color: #00000055;
-    --selected-button-color3: #fff;
-    --header-color: #000000ed;
-    --header-bg-color: #222731ee;
-    --selected-button-color4: #000000ee;
-    --button-color2: #000;
-    --header-bordercolor-2: #dfeed4ff;
-    --selected-text-color2: #fff;
-    --header-icon-color: #fefefe;
-    --menu-bg-color-2: #00000055;
-    --button-color1: #222731;
-    --selected-button-color2: #200;
-    --footer-text-color: #000;
-    --hero-text-color: #000;
-    --header-bg-image: none;
-    --button-text-color3: #fff;
-    --selected-text-color3: #85181c;
-    --selected-button-color1: #200;
-    --button-text-color1: #fefefe;
-    --main-text-color: #ffffff;
-    --main-bg: #000;
-    --footer-bg-color: #fefefe;
-    --selected-text-color1: #fff;
-    --hero-bg-color: #000000;
+  /* Swan Restaurant — from brand card + Chinese menu pages (muted slate / steel blue, cool off-white) */
+  /* Brand: primary ~#8DA9C4, tagline/body ~#5A7A96, menu sidebar ~#71A2C1, secondary text ~#4A708B */
+  /* Surfaces: base ~#F7F9FB, wave pattern ~#E1E9F0 / #F2F7FA. WhatsApp accent: #25D366 (use in custom.css if needed) */
+
+  /* Header */
+  --header-color: #5a7a96;
+  --header-text-color: #fefefe;
+  --header-text-shadow-color: #00000040;
+  --header-bg-color: #71a2c1ee;
+  --header-icon-color: #fefefe;
+  --header-bordercolor-1: #a3c4d8;
+  --header-bordercolor-2: #8eb4cc;
+  --header-bg-image: none;
+
+  /* Hero */
+  --hero-bg-color: #f7f9fb;
+  --hero-bg-image-fg-color: #8da9c4;
+  --hero-text-color: #000000;
+  --contact-info-bg: none;
+
+  /* Main */
+  --main-bg: #f7f9fb;
+  --main-bg-color: #f7f9fb;
+  --main-text-color: #000000;
+
+  /* Menu cards / gradients */
+  --menu-bg-color-1: #e8f0f6;
+  --menu-bg-color-2: #dce8f0;
+  --menu-text-color: #000000;
+
+  /* Buttons */
+  --button-color1: #71a2c1;
+  --button-color2: #5a7a96;
+  --button-text-color1: #fefefe;
+  --button-text-color2: #ffffff;
+  --button-text-color3: #fff;
+
+  /* Selected / active */
+  --selected-button-color1: #5a7a96;
+  --selected-button-color2: #4a708b;
+  --selected-button-color3: #ffffff;
+  --selected-button-color4: #3a5a6e;
+  --selected-text-color1: #fff;
+  --selected-text-color2: #fff;
+  --selected-text-color3: #8da9c4;
+
+  /* Footer & modals */
+  --footer-bg-color: #f7f9fb;
+  --footer-text-color: #4a708b;
+  --modal-bg-container-color: #00000055;
 }
