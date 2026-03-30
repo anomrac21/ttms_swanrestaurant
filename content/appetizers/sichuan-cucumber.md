@@ -1,11 +1,11 @@
 ---
 cookingmethods: []
-date: "2026-03-30T21:17:09.142Z"
+date: "2026-03-30T21:19:27.490Z"
 events: []
 images: []
 ingredients: []
 prices:
-    - price: 50
+    - price: 48
       variable1: '-'
       variable2: '-'
 promotions: []
@@ -19,5 +19,4 @@ types:
 weight: 1
 ---
 
-BY1 · 酸辣青瓜段
-spicy, pickled cucumber
+BY1 · 酸辣青瓜段 spicy, pickled cucumber
