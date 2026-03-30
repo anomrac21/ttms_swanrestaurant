@@ -1,7 +1,7 @@
 ---
 title: "Authentic Noodles"
 weight: 13
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: https://ct.ttmenus.com/icons/food/icon-noodles.webp
 ---
 
 Ho fun, noodle soups.
