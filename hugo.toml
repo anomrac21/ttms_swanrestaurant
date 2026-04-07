@@ -90,7 +90,7 @@ baseURL = 'https://swanrestaurant.ttmenus.com/'
     phone = 18682357766
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 29
     notifications = true
 
 [params.social]
