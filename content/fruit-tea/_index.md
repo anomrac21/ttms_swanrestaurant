@@ -1,7 +1,9 @@
 ---
-title: "Fruit Tea"
+title: Fruit Tea
 weight: 17
-icon: https://ct.ttmenus.com/icons/food/icon-icedtea.webp
+icon: images/fruit-tea.webp
+images:
+    primary: images/fruit-tea.webp
 ---
 
 Fresh fruit and floral teas (果茶類).

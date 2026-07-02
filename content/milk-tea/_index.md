@@ -1,7 +1,9 @@
 ---
-title: "Milk Tea"
+title: Milk Tea
 weight: 16
-icon: https://ct.ttmenus.com/icons/food/icon-icedtea.webp
+icon: images/milk-tea.webp
+images:
+    primary: images/milk-tea.webp
 ---
 
 Boba milk tea and specialty milk teas (奶茶類).

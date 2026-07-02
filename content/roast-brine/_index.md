@@ -1,7 +1,9 @@
 ---
-title: "Roast / Brine"
+title: Roast / Brine
 weight: 15
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: images/roast-brine.webp
+images:
+    primary: images/roast-brine.webp
 ---
 
 Roast duck and specialty roasts.

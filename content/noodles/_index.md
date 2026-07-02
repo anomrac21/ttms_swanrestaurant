@@ -1,7 +1,9 @@
 ---
-title: "Noodles"
+title: Noodles
 weight: 12
-icon: https://ct.ttmenus.com/icons/food/icon-noodles.webp
+icon: images/noodles.webp
+images:
+    primary: images/noodles.webp
 ---
 
 Chow mein, lo mein, mai fun.

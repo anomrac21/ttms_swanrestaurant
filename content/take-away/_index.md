@@ -1,7 +1,9 @@
 ---
-title: "Take Away"
+title: Take Away
 weight: 19
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: images/take-away.webp
+images:
+    primary: images/take-away.webp
 ---
 
 Combination meals for takeaway (MENU-TAKE AWAY).

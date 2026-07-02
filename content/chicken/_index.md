@@ -1,7 +1,9 @@
 ---
-title: "Chicken"
+title: Chicken
 weight: 8
-icon: https://ct.ttmenus.com/icons/food/icon-chicken.webp
+icon: images/chicken.webp
+images:
+    primary: images/chicken.webp
 ---
 
 Chicken dishes.

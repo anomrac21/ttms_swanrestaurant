@@ -1,7 +1,9 @@
 ---
-title: "Lamb"
+title: Lamb
 weight: 10
-icon: https://ct.ttmenus.com/icons/food/icon-lamb.webp
+icon: images/lamb.webp
+images:
+    primary: images/lamb.webp
 ---
 
 Lamb dishes.

@@ -1,7 +1,9 @@
 ---
-title: "Rice"
+title: Rice
 weight: 4
-icon: https://ct.ttmenus.com/icons/food/icon-rice.webp
+icon: images/rice.webp
+images:
+    primary: images/rice.webp
 ---
 
 Fried rice and steamed rice.

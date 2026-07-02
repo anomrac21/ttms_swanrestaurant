@@ -1,7 +1,9 @@
 ---
-title: "Authentic Seafood"
+title: Authentic Seafood
 weight: 7
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: images/authentic-seafood.webp
+images:
+    primary: images/authentic-seafood.webp
 ---
 
 Lobster, sashimi, and chef's seafood styles (pricing per lb where noted).

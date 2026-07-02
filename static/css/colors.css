@@ -17,7 +17,7 @@
   --hero-bg-color: #f7f9fb;
   --hero-bg-image-fg-color: #8da9c4;
   --hero-text-color: #000000;
-  --contact-info-bg: none;
+  --contact-info-bg: #5a7a96;
 
   /* Main */
   --main-bg: #f7f9fb;
@@ -46,7 +46,7 @@
   --selected-text-color3: #8da9c4;
 
   /* Footer & modals */
-  --footer-bg-color: #f7f9fb;
-  --footer-text-color: #4a708b;
+  --footer-bg-color: #5a7a96;
+  --footer-text-color: #f7f9fb;
   --modal-bg-container-color: #00000055;
 }

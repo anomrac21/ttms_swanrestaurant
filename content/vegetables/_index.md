@@ -1,7 +1,9 @@
 ---
-title: "Vegetables"
+title: Vegetables
 weight: 14
-icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
+icon: images/vegetables.webp
+images:
+    primary: images/vegetables.webp
 ---
 
 Vegetable and tofu dishes.

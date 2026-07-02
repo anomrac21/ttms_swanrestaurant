@@ -1,7 +1,9 @@
 ---
-title: "Soup"
+title: Soup
 weight: 3
-icon: https://ct.ttmenus.com/icons/food/icon-soup.webp
+icon: images/soup.webp
+images:
+    primary: images/soup.webp
 ---
 
 Soups and broths.

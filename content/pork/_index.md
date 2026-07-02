@@ -1,7 +1,9 @@
 ---
-title: "Pork"
+title: Pork
 weight: 11
-icon: https://ct.ttmenus.com/icons/food/icon-ribs.webp
+icon: images/pork.webp
+images:
+    primary: images/pork.webp
 ---
 
 Pork dishes.

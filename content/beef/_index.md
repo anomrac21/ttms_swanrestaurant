@@ -1,7 +1,9 @@
 ---
-title: "Beef"
+title: Beef
 weight: 9
-icon: https://ct.ttmenus.com/icons/food/icon-beef.webp
+icon: images/beef.webp
+images:
+    primary: images/beef.webp
 ---
 
 Beef dishes.
