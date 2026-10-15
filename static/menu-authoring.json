@@ -1,0 +1,1243 @@
+{
+  "multi_location_menus": false,
+  "shared": [
+    {
+      "section": "appetizers",
+      "file": "broccoli-stem",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/broccoli-stem.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "brown-sugar-rice-cake",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/brown-sugar-rice-cake.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "crispy-fried-pork-strips",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/crispy-fried-pork-strips.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-chicken-egg-roll",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-chicken-egg-roll.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-chicken-spring-roll",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-chicken-spring-roll.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-chicken-wings",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-chicken-wings.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-milk-curd",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-milk-curd.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-shrimp-egg-roll",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-shrimp-egg-roll.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-shrimp-spring-roll",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-shrimp-spring-roll.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fried-veg-spring-roll",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fried-veg-spring-roll.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/fries.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "golden-fried-bun",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/golden-fried-bun.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "hong-kong-fried-squid",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/hong-kong-fried-squid.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "kimchi",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/kimchi.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "sichuan-cucumber",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/sichuan-cucumber.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "steam-mushroom-chicken-wontons",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/steam-mushroom-chicken-wontons.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "steam-shrimp-wonton",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/steam-shrimp-wonton.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "steam-veg-wontons",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/steam-veg-wontons.md"
+    },
+    {
+      "section": "appetizers",
+      "file": "wasabi-okra",
+      "authoring": "shared",
+      "content_path": "content/_shared/appetizers/wasabi-okra.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "chaozhou-beef-ball-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/chaozhou-beef-ball-soup.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "cuttlefish-balls-noodle-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/cuttlefish-balls-noodle-soup.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "dry-fried-beef-ho-fun",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/dry-fried-beef-ho-fun.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "fuzhou-fish-ball-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/fuzhou-fish-ball-soup.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "lobster-balls-noodle-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/lobster-balls-noodle-soup.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "pork-balls-noodle-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/pork-balls-noodle-soup.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "seafood-noodle-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/seafood-noodle-soup.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "stir-fried-beef-noodle",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/stir-fried-beef-noodle.md"
+    },
+    {
+      "section": "authentic-noodles",
+      "file": "wet-fried-beef-ho-fun",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-noodles/wet-fried-beef-ho-fun.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "chefs-grouper",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/chefs-grouper.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "chefs-small-conch",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/chefs-small-conch.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "chefs-white-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/chefs-white-shrimp.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "mussel-6pc",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/mussel-6pc.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "salmon-hokkigai-platter",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/salmon-hokkigai-platter.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "sashimi-platter",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/sashimi-platter.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "sashimi-salmon-12pc",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/sashimi-salmon-12pc.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "swans-lobster",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/swans-lobster.md"
+    },
+    {
+      "section": "authentic-seafood",
+      "file": "tilapia",
+      "authoring": "shared",
+      "content_path": "content/_shared/authentic-seafood/tilapia.md"
+    },
+    {
+      "section": "beef",
+      "file": "beef-black-bean",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/beef-black-bean.md"
+    },
+    {
+      "section": "beef",
+      "file": "beef-broccoli",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/beef-broccoli.md"
+    },
+    {
+      "section": "beef",
+      "file": "beef-carille",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/beef-carille.md"
+    },
+    {
+      "section": "beef",
+      "file": "beef-ginger",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/beef-ginger.md"
+    },
+    {
+      "section": "beef",
+      "file": "beef-pineapple",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/beef-pineapple.md"
+    },
+    {
+      "section": "beef",
+      "file": "beef-vegetable",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/beef-vegetable.md"
+    },
+    {
+      "section": "beef",
+      "file": "boiled-sliced-beef-chili",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/boiled-sliced-beef-chili.md"
+    },
+    {
+      "section": "beef",
+      "file": "clay-pot-beef",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/clay-pot-beef.md"
+    },
+    {
+      "section": "beef",
+      "file": "crispy-beef-strips",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/crispy-beef-strips.md"
+    },
+    {
+      "section": "beef",
+      "file": "sizzling-beef-brisket-rice-roll",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/sizzling-beef-brisket-rice-roll.md"
+    },
+    {
+      "section": "beef",
+      "file": "sour-soup-fatty-beef",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/sour-soup-fatty-beef.md"
+    },
+    {
+      "section": "beef",
+      "file": "spicy-crispy-beef",
+      "authoring": "shared",
+      "content_path": "content/_shared/beef/spicy-crispy-beef.md"
+    },
+    {
+      "section": "cheese-foam",
+      "file": "avocado-cheese-foam",
+      "authoring": "shared",
+      "content_path": "content/_shared/cheese-foam/avocado-cheese-foam.md"
+    },
+    {
+      "section": "cheese-foam",
+      "file": "choco-cheese-foam",
+      "authoring": "shared",
+      "content_path": "content/_shared/cheese-foam/choco-cheese-foam.md"
+    },
+    {
+      "section": "cheese-foam",
+      "file": "mango-cheese-foam",
+      "authoring": "shared",
+      "content_path": "content/_shared/cheese-foam/mango-cheese-foam.md"
+    },
+    {
+      "section": "cheese-foam",
+      "file": "peach-cheese-foam",
+      "authoring": "shared",
+      "content_path": "content/_shared/cheese-foam/peach-cheese-foam.md"
+    },
+    {
+      "section": "cheese-foam",
+      "file": "snow-butterfly-cheese-foam",
+      "authoring": "shared",
+      "content_path": "content/_shared/cheese-foam/snow-butterfly-cheese-foam.md"
+    },
+    {
+      "section": "cheese-foam",
+      "file": "strawberry-cheese-foam",
+      "authoring": "shared",
+      "content_path": "content/_shared/cheese-foam/strawberry-cheese-foam.md"
+    },
+    {
+      "section": "chicken",
+      "file": "butterfried-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/butterfried-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "cashew-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/cashew-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "chicken-carille",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/chicken-carille.md"
+    },
+    {
+      "section": "chicken",
+      "file": "chicken-vegetable",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/chicken-vegetable.md"
+    },
+    {
+      "section": "chicken",
+      "file": "hot-pot-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/hot-pot-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "jeu-jeu-clay-pot-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/jeu-jeu-clay-pot-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "lemon-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/lemon-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "mushroom-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/mushroom-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "pepper-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/pepper-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/roast-chicken.md"
+    },
+    {
+      "section": "chicken",
+      "file": "sweet-sour-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/chicken/sweet-sour-chicken.md"
+    },
+    {
+      "section": "fish",
+      "file": "fish-carille",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/fish-carille.md"
+    },
+    {
+      "section": "fish",
+      "file": "fish-ginger-chive",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/fish-ginger-chive.md"
+    },
+    {
+      "section": "fish",
+      "file": "fish-tofu-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/fish-tofu-soup.md"
+    },
+    {
+      "section": "fish",
+      "file": "hand-made-fish-tofu",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/hand-made-fish-tofu.md"
+    },
+    {
+      "section": "fish",
+      "file": "hot-pot-fish",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/hot-pot-fish.md"
+    },
+    {
+      "section": "fish",
+      "file": "sichuan-fish-pickled",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/sichuan-fish-pickled.md"
+    },
+    {
+      "section": "fish",
+      "file": "sliced-fish-vegetables",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/sliced-fish-vegetables.md"
+    },
+    {
+      "section": "fish",
+      "file": "steamed-pepper-fish",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/steamed-pepper-fish.md"
+    },
+    {
+      "section": "fish",
+      "file": "sweet-sour-fish",
+      "authoring": "shared",
+      "content_path": "content/_shared/fish/sweet-sour-fish.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "chrysanthemum-honey-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/chrysanthemum-honey-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "goji-ginseng-chrysanthemum-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/goji-ginseng-chrysanthemum-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "grapefruit-green-tea-qingyou",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/grapefruit-green-tea-qingyou.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "grapefruit-green-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/grapefruit-green-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "jasmine-honey-green-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/jasmine-honey-green-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "lime-oolong-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/lime-oolong-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "lychee-rose-green-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/lychee-rose-green-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "mango-passionfruit-green-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/mango-passionfruit-green-tea.md"
+    },
+    {
+      "section": "fruit-tea",
+      "file": "peach-oolong-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/fruit-tea/peach-oolong-tea.md"
+    },
+    {
+      "section": "lamb",
+      "file": "exploding-stir-fry-lamb",
+      "authoring": "shared",
+      "content_path": "content/_shared/lamb/exploding-stir-fry-lamb.md"
+    },
+    {
+      "section": "lamb",
+      "file": "hot-pot-braised-lamb",
+      "authoring": "shared",
+      "content_path": "content/_shared/lamb/hot-pot-braised-lamb.md"
+    },
+    {
+      "section": "lamb",
+      "file": "pan-seared-lamb-chop",
+      "authoring": "shared",
+      "content_path": "content/_shared/lamb/pan-seared-lamb-chop.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "black-sugar-coffee-boba-milk",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/black-sugar-coffee-boba-milk.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "boba-milk-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/boba-milk-tea.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "brown-sugar-boba-matcha",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/brown-sugar-boba-matcha.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "brown-sugar-boba-milk-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/brown-sugar-boba-milk-tea.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "cocoa-boba-milk",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/cocoa-boba-milk.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "herbal-jelly-boba-milk",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/herbal-jelly-boba-milk.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "jasmine-milk-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/jasmine-milk-tea.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "matcha-boba-milk",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/matcha-boba-milk.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "oreo-boba-milk-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/oreo-boba-milk-tea.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "strawberry-boba-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/strawberry-boba-tea.md"
+    },
+    {
+      "section": "milk-tea",
+      "file": "taro-boba-milk",
+      "authoring": "shared",
+      "content_path": "content/_shared/milk-tea/taro-boba-milk.md"
+    },
+    {
+      "section": "noodles",
+      "file": "beef-chow-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/beef-chow-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "beef-lo-mein",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/beef-lo-mein.md"
+    },
+    {
+      "section": "noodles",
+      "file": "char-siu-chow-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/char-siu-chow-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "char-siu-lo-mein",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/char-siu-lo-mein.md"
+    },
+    {
+      "section": "noodles",
+      "file": "chicken-chow-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/chicken-chow-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "chicken-lo-mein",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/chicken-lo-mein.md"
+    },
+    {
+      "section": "noodles",
+      "file": "chow-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/chow-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "mix-veg-chow-mai-fun",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/mix-veg-chow-mai-fun.md"
+    },
+    {
+      "section": "noodles",
+      "file": "mix-veg-lo-mein",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/mix-veg-lo-mein.md"
+    },
+    {
+      "section": "noodles",
+      "file": "shrimp-chow-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/shrimp-chow-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "shrimp-lo-mein",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/shrimp-lo-mein.md"
+    },
+    {
+      "section": "noodles",
+      "file": "singapore-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/singapore-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "swans-chow-mai-fun",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/swans-chow-mai-fun.md"
+    },
+    {
+      "section": "noodles",
+      "file": "swans-chow-noodles",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/swans-chow-noodles.md"
+    },
+    {
+      "section": "noodles",
+      "file": "swans-lo-mein",
+      "authoring": "shared",
+      "content_path": "content/_shared/noodles/swans-lo-mein.md"
+    },
+    {
+      "section": "pork",
+      "file": "golden-garlic-spareribs",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/golden-garlic-spareribs.md"
+    },
+    {
+      "section": "pork",
+      "file": "honey-kurobuta",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/honey-kurobuta.md"
+    },
+    {
+      "section": "pork",
+      "file": "maos-braised-pork-belly",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/maos-braised-pork-belly.md"
+    },
+    {
+      "section": "pork",
+      "file": "mushroom-pork",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/mushroom-pork.md"
+    },
+    {
+      "section": "pork",
+      "file": "pork-broccoli",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/pork-broccoli.md"
+    },
+    {
+      "section": "pork",
+      "file": "pork-ginger-sauce",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/pork-ginger-sauce.md"
+    },
+    {
+      "section": "pork",
+      "file": "sizzling-stuffed-tofu",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/sizzling-stuffed-tofu.md"
+    },
+    {
+      "section": "pork",
+      "file": "sweet-sour-pork-on-ice",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/sweet-sour-pork-on-ice.md"
+    },
+    {
+      "section": "pork",
+      "file": "sweet-sour-pork",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/sweet-sour-pork.md"
+    },
+    {
+      "section": "pork",
+      "file": "taro-braised-pork-belly",
+      "authoring": "shared",
+      "content_path": "content/_shared/pork/taro-braised-pork-belly.md"
+    },
+    {
+      "section": "rice",
+      "file": "beef-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/beef-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "brown-rice-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/brown-rice-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "char-siu-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/char-siu-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "chicken-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/chicken-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "egg-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/egg-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "jasmine-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/jasmine-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "jasmine-steam-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/jasmine-steam-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "lap-cheong-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/lap-cheong-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "shrimp-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/shrimp-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "swans-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/swans-fried-rice.md"
+    },
+    {
+      "section": "rice",
+      "file": "young-chow-fried-rice",
+      "authoring": "shared",
+      "content_path": "content/_shared/rice/young-chow-fried-rice.md"
+    },
+    {
+      "section": "roast-brine",
+      "file": "beer-duck",
+      "authoring": "shared",
+      "content_path": "content/_shared/roast-brine/beer-duck.md"
+    },
+    {
+      "section": "roast-brine",
+      "file": "flame-duck-vegetable",
+      "authoring": "shared",
+      "content_path": "content/_shared/roast-brine/flame-duck-vegetable.md"
+    },
+    {
+      "section": "roast-brine",
+      "file": "flame-roasted-duck-whole",
+      "authoring": "shared",
+      "content_path": "content/_shared/roast-brine/flame-roasted-duck-whole.md"
+    },
+    {
+      "section": "roast-brine",
+      "file": "roast-duck-half",
+      "authoring": "shared",
+      "content_path": "content/_shared/roast-brine/roast-duck-half.md"
+    },
+    {
+      "section": "roast-brine",
+      "file": "roast-duck-quarter",
+      "authoring": "shared",
+      "content_path": "content/_shared/roast-brine/roast-duck-quarter.md"
+    },
+    {
+      "section": "roast-brine",
+      "file": "roast-duck-whole",
+      "authoring": "shared",
+      "content_path": "content/_shared/roast-brine/roast-duck-whole.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "cashew-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/cashew-shrimp.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "conch-ginger-chive",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/conch-ginger-chive.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "crispy-shrimp-balls",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/crispy-shrimp-balls.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "golden-cream-cheese-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/golden-cream-cheese-shrimp.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "hk-style-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/hk-style-shrimp.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "pepper-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/pepper-shrimp.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "seafood-vermicelli-clay-pot",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/seafood-vermicelli-clay-pot.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "shrimp-black-bean",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/shrimp-black-bean.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "shrimp-garlic-sauce",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/shrimp-garlic-sauce.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "shrimp-vegetables",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/shrimp-vegetables.md"
+    },
+    {
+      "section": "shrimp",
+      "file": "squid-hot-sauce",
+      "authoring": "shared",
+      "content_path": "content/_shared/shrimp/squid-hot-sauce.md"
+    },
+    {
+      "section": "soup",
+      "file": "chicken-corn-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/chicken-corn-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "chicken-wonton-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/chicken-wonton-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "crab-corn-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/crab-corn-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "creamy-chicken-mushroom-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/creamy-chicken-mushroom-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "foo-yang-kai-nip-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/foo-yang-kai-nip-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "hk-borscht",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/hk-borscht.md"
+    },
+    {
+      "section": "soup",
+      "file": "hot-sour-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/hot-sour-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "kai-see-mein-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/kai-see-mein-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "seafood-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/seafood-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "shrimp-wonton-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/shrimp-wonton-soup.md"
+    },
+    {
+      "section": "soup",
+      "file": "swans-special-soup",
+      "authoring": "shared",
+      "content_path": "content/_shared/soup/swans-special-soup.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-char-siu-roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-char-siu-roast-chicken.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-char-siu-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-char-siu-shrimp.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-vegetables-beef",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-vegetables-beef.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-vegetables-char-siu",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-vegetables-char-siu.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-vegetables-fish",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-vegetables-fish.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-vegetables-roast-pork",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-vegetables-roast-pork.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-vegetables-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-vegetables-shrimp.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-noodles-vegetables-squid",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-noodles-vegetables-squid.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-char-siu-roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-char-siu-roast-chicken.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-char-siu-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-char-siu-shrimp.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-chow-mein-roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-chow-mein-roast-chicken.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-beef",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-beef.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-char-siu",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-char-siu.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-fish",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-fish.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-roast-chicken.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-roast-pork",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-roast-pork.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-shrimp.md"
+    },
+    {
+      "section": "take-away",
+      "file": "fried-rice-vegetables-squid",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/fried-rice-vegetables-squid.md"
+    },
+    {
+      "section": "take-away",
+      "file": "noodles-chow-mein-roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/noodles-chow-mein-roast-chicken.md"
+    },
+    {
+      "section": "take-away",
+      "file": "noodles-vegetables-roast-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/take-away/noodles-vegetables-roast-chicken.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "baby-bok-choy",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/baby-bok-choy.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "bean-sprouts-ginger",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/bean-sprouts-ginger.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "bittermelon",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/bittermelon.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "black-mushroom-oyster",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/black-mushroom-oyster.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "broccoli-oyster",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/broccoli-oyster.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "buddhist-dish",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/buddhist-dish.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "cauliflower-garlic",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/cauliflower-garlic.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "chinese-dried-mushroom",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/chinese-dried-mushroom.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "chinese-spinach",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/chinese-spinach.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "choy-sum",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/choy-sum.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "crispy-fried-eggplant",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/crispy-fried-eggplant.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "fresh-plain-vegetables",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/fresh-plain-vegetables.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "green-vegetable-tofu",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/green-vegetable-tofu.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "lettuce-garlic",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/lettuce-garlic.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "luffa-gourd",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/luffa-gourd.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "mapo-tofu",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/mapo-tofu.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "mustard-greens",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/mustard-greens.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "napa-cabbage",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/napa-cabbage.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "snow-peas",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/snow-peas.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "string-beans-garlic",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/string-beans-garlic.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "sweet-sour-tofu",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/sweet-sour-tofu.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "three-treasure-vegetables",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/three-treasure-vegetables.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "tomato-potato-mash",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/tomato-potato-mash.md"
+    },
+    {
+      "section": "vegetables",
+      "file": "water-spinach",
+      "authoring": "shared",
+      "content_path": "content/_shared/vegetables/water-spinach.md"
+    }
+  ],
+  "location": [],
+  "generated_at": "2026-10-15T06:32:57.770949+00:00"
+}

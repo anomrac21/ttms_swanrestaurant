@@ -16,3 +16,8 @@ desktop.ini
 *.swp
 *.swo
 *~
+
+# Local Hugo wrapper and generated menu tree
+/bin
+/content/.generated/**
+!/content/.generated/.gitkeep

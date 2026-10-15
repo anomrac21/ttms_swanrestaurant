@@ -1,5 +1,6 @@
 locations:
-  - address: "M6 Plaza, Narsaloo Ramaya Marg Rd, Endeavour"
+  - slug: chaguanas
+    address: "M6 Plaza, Narsaloo Ramaya Marg Rd, Endeavour"
     city: "Chaguanas"
     island: "Trinidad"
     latlon: [10.532433011955687, -61.40815383190178]
